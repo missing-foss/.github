@@ -1,4 +1,7 @@
-# Missing FOSS
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="brand/banner-light.png">
+  <img src="brand/banner.png" alt="Missing FOSS - free software for the gaps nobody filled" width="640">
+</picture>
 
 Software built for one household's real daily use, published in case it's
 useful to yours. No telemetry, no CDN, no growth plans - just tools that
