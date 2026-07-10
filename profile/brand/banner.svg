@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400">
+  <defs></defs>
+  <rect width="1280" height="400" fill="#0b0f0b"></rect>
+  <rect x="90" y="125" width="150" height="150" rx="31.95" fill="#12160f"></rect>
+  <rect x="115.95" y="150.95" width="41.025" height="41.025" rx="10.95" fill="#34e06e"></rect>
+  <rect x="173.02499999999998" y="150.95" width="41.025" height="41.025" rx="10.95" fill="#34e06e"></rect>
+  <rect x="115.95" y="208.02499999999998" width="41.025" height="41.025" rx="10.95" fill="#34e06e"></rect>
+  <rect x="175.04999999999998" y="210.04999999999998" width="36.975" height="36.975" rx="8.924999999999999" fill="none" stroke="#34e06e" stroke-width="4.05" stroke-dasharray="7.5 6.0" opacity="0.72"></rect>
+  <text x="284" y="200" font-family="JBMono" font-weight="800" font-size="60" letter-spacing="-0.6"><tspan fill="#eafff0">Missing</tspan><tspan fill="#34e06e">FOSS</tspan></text>
+  <text x="284" y="246" font-family="JBMono" font-weight="500" font-size="22" fill="#7f9b86">// free software for the gaps nobody filled</text>
+  </svg>
